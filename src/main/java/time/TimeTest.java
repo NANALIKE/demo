@@ -1,4 +1,4 @@
-package service.time;
+package time;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
